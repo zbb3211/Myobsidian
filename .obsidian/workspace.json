@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "7050ebde90aa8218",
+    "type": "split",
+    "children": [
+      {
+        "id": "053ee231b3511885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdaaaeae993a1fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4476a3e94e1d5557",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b233c42dc9506b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a03610086e8efb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f130639b937bba7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26b93cd77f20b2a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "456ef7b2cfb22f82",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8c45bea02e0ed61b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4993ff3ce6ca95f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5214552bbeaeaef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05775ab19689288c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6567af4bb1be4304",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25300c21c68d6a98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md"
+              }
+            }
+          },
+          {
+            "id": "d3e420029e69e807",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5,
+    "collapsed": true
+  },
+  "active": "456ef7b2cfb22f82",
+  "lastOpenFiles": [
+    "00-Tips/LaTex/LaTex数学公式/latex.md",
+    "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md",
+    "30-Reading/句子.md",
+    "50-Courses/虚拟化与云计算/test.md",
+    "50-Courses/虚拟化与云计算/L11-复习课.pdf",
+    "Excalidraw/Drawing 2022-12-09 15.44.36.excalidraw.md",
+    "00-Tips/Office/Word/word使用过程中常见问题汇总.md"
+  ]
+}
