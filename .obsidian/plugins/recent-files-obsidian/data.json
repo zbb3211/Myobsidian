@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "数字信号处理期末复习",
+      "path": "50-Courses/数字信号处理/数字信号处理期末复习/数字信号处理期末复习.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Gen6D",
+      "path": "60-Paper/Reading Papers/Artificial Intelligence/Gen6D/Gen6D.md"
+    },
+    {
+      "basename": "latex",
+      "path": "00-Tips/LaTex/LaTex数学公式/latex.md"
+    },
+    {
+      "basename": "word使用过程中常见问题汇总",
+      "path": "00-Tips/Office/Word/word使用过程中常见问题汇总.md"
+    },
+    {
+      "basename": "A parallel meta-heuristic method for solving large scale unit commitment considering the integration of new energy sectors",
+      "path": "60-Paper/Reading Papers/Power system scheduling optimization/A parallel meta-heuristic method for solving large scale unit commitment considering the integration of new energy sectors.md"
+    },
+    {
+      "basename": "如何优雅地刷掉一本数学书",
+      "path": "30-Reading/如何优雅地刷掉一本数学书.md"
+    },
+    {
+      "basename": "雅思学习方法",
+      "path": "50-Courses/英语/雅思学习方法.md"
+    },
+    {
+      "basename": "算法基础知识点",
+      "path": "40-Coding/算法基础课/算法基础知识点.md"
+    },
+    {
+      "basename": "Pasted image 20221214105436",
+      "path": "50-Courses/数字信号处理/数字信号处理期末复习/Pasted image 20221214105436.png"
+    },
+    {
       "basename": "云计算期末复习",
       "path": "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md"
     },
@@ -37,16 +77,8 @@
       "path": "50-Courses/虚拟化与云计算/云计算期末复习/1670597604736.png"
     },
     {
-      "basename": "latex",
-      "path": "00-Tips/LaTex/LaTex数学公式/latex.md"
-    },
-    {
       "basename": "句子",
       "path": "30-Reading/句子.md"
-    },
-    {
-      "basename": "word使用过程中常见问题汇总",
-      "path": "00-Tips/Office/Word/word使用过程中常见问题汇总.md"
     }
   ],
   "omittedPaths": [],

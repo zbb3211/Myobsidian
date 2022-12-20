@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "053ee231b3511885",
+        "id": "e14a7888e96e413d",
         "type": "tabs",
         "children": [
           {
-            "id": "cdaaaeae993a1fda",
+            "id": "0a725dc0435f18ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md",
+                "file": "50-Courses/数字信号处理/数字信号处理期末复习/数字信号处理期末复习.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c45bea02e0ed61b",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md",
+                "file": "50-Courses/数字信号处理/数字信号处理期末复习/数字信号处理期末复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md",
+                "file": "50-Courses/数字信号处理/数字信号处理期末复习/数字信号处理期末复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md"
+                "file": "50-Courses/数字信号处理/数字信号处理期末复习/数字信号处理期末复习.md"
               }
             }
           },
@@ -146,26 +144,34 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "5bbe57aa9be4201a",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 259.5,
     "collapsed": true
   },
-  "active": "cdaaaeae993a1fda",
+  "active": "0a725dc0435f18ac",
   "lastOpenFiles": [
-    "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210231118253.bmp",
-    "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210225830797 1.bmp",
-    "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210225830797.bmp",
-    "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210200535234.bmp",
-    "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210162012250.bmp",
-    "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210161846149.bmp",
-    "50-Courses/虚拟化与云计算/云计算期末复习/1670660208244.png",
-    "50-Courses/虚拟化与云计算/云计算期末复习/1670597604736.png",
-    "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md",
-    "00-Tips/LaTex/LaTex数学公式/latex.md"
+    "README.md",
+    "60-Paper/Reading Papers/Artificial Intelligence/Gen6D/Gen6D.md",
+    "00-Tips/LaTex/LaTex数学公式/latex.md",
+    "00-Tips/Office/Word/word使用过程中常见问题汇总.md",
+    "60-Paper/Reading Papers/Power system scheduling optimization/A parallel meta-heuristic method for solving large scale unit commitment considering the integration of new energy sectors.md",
+    "30-Reading/如何优雅地刷掉一本数学书.md",
+    "50-Courses/英语/雅思学习方法.md",
+    "40-Coding/算法基础课/算法基础知识点.md",
+    "50-Courses/数字信号处理/数字信号处理期末复习/Pasted image 20221214105436.png",
+    "50-Courses/数字信号处理/数字信号处理期末复习/数字信号处理期末复习.md"
   ]
 }
