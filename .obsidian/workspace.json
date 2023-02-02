@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6f40eb63b33e7d",
+        "id": "d3f15b0683e1ac4d",
         "type": "tabs",
         "children": [
           {
-            "id": "6dbc31986cc30024",
+            "id": "33eab0d9863698e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "393701483dff416c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "20-Diary/每日积累/英语单词.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20-Diary/每日积累/英语单词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20-Diary/每日积累/英语单词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20-Diary/每日积累/英语单词.md"
+              }
             }
           },
           {
@@ -177,17 +174,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "393701483dff416c",
+  "active": "33eab0d9863698e2",
   "lastOpenFiles": [
-    "30-Reading/句子.md",
-    "30-Reading/阅读/2023年阅读书目/我与地坛/我与地坛.md",
-    "30-Reading/阅读/2023年阅读书目/我与地坛/《我与地坛》进度表.md",
-    "30-Reading/阅读/2023年阅读书目/2023年阅读书目清单.md",
+    "40-Coding/算法基础课/算法基础知识点.md",
+    "20-Diary/每日积累/英语单词.md",
+    "30-Reading/致涛哥.md",
+    "30-Reading/阅读/文章/英文文章/Pale Blue Dot：A Vision of the Human Future in Space.md",
+    "30-Reading/中文句子.md",
     "30-Reading/如何优雅地刷掉一本数学书.md",
-    "50-Courses/数字信号处理/数字信号处理期末复习/数字信号处理期末复习.md",
+    "20-Diary/每日积累/英语单词/未命名.md",
     "README.md",
     "60-Paper/Reading Papers/Artificial Intelligence/Gen6D/Gen6D.md",
-    "00-Tips/LaTex/LaTex数学公式/latex.md",
-    "00-Tips/Office/Word/word使用过程中常见问题汇总.md"
+    "50-Courses/Biomedical Information/Final Exam Review.md"
   ]
 }
