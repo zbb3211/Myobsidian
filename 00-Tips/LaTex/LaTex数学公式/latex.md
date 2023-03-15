@@ -121,6 +121,8 @@ $$ \begin{align}
 
 \end{tabular}}
 
+## 补充
+`\infty`：$\infty$
 
 
 

@@ -1,108 +1,200 @@
 {
   "recentFiles": [
     {
-      "basename": "英语单词",
-      "path": "20-Diary/每日积累/英语单词.md"
-    },
-    {
       "basename": "算法基础知识点",
       "path": "40-Coding/算法基础课/算法基础知识点.md"
     },
     {
-      "basename": "致涛哥",
-      "path": "30-Reading/致涛哥.md"
+      "basename": "回溯算法套路 子集型回溯",
+      "path": "40-Coding/基础算法精讲/回溯算法套路 子集型回溯.md"
     },
     {
-      "basename": "Pale Blue Dot：A Vision of the Human Future in Space",
-      "path": "30-Reading/阅读/文章/英文文章/Pale Blue Dot：A Vision of the Human Future in Space.md"
+      "basename": "1678887836543",
+      "path": "1678887836543.png"
     },
     {
-      "basename": "中文句子",
-      "path": "30-Reading/中文句子.md"
+      "basename": "1678883495195",
+      "path": "1678883495195.png"
+    },
+    {
+      "basename": "1678869206473",
+      "path": "1678869206473.png"
+    },
+    {
+      "basename": "1678869069788",
+      "path": "1678869069788.png"
+    },
+    {
+      "basename": "Day Planner-20221211",
+      "path": "Day Planners/Day Planner-20221211.md"
+    },
+    {
+      "basename": "Leetcode题目分类",
+      "path": "40-Coding/算法刷题/leetcode/Leetcode题目分类.md"
+    },
+    {
+      "basename": "英语单词",
+      "path": "20-Diary/每日积累/英语单词.md"
+    },
+    {
+      "basename": "Day Planner-20230307",
+      "path": "Day Planners/Day Planner-20230307.md"
+    },
+    {
+      "basename": "1677939947126",
+      "path": "50-Courses/算法设计与分析/截图/1677939947126.png"
+    },
+    {
+      "basename": "期末复习",
+      "path": "50-Courses/算法设计与分析/期末复习.md"
+    },
+    {
+      "basename": "知识点积累",
+      "path": "40-Coding/算法刷题/Hackerrank/知识点积累.md"
+    },
+    {
+      "basename": "1677339062861",
+      "path": "50-Courses/计算机体系结构/截图存放/1677339062861.png"
+    },
+    {
+      "basename": "1677588420260",
+      "path": "40-Coding/算法刷题/leetcode/截图/1677588420260.png"
+    },
+    {
+      "basename": "1677916599972",
+      "path": "40-Coding/算法刷题/leetcode/截图/1677916599972.png"
+    },
+    {
+      "basename": "1677571169463",
+      "path": "40-Coding/算法刷题/leetcode/截图/1677571169463.png"
+    },
+    {
+      "basename": "1677338790607",
+      "path": "50-Courses/计算机体系结构/截图存放/1677338790607.png"
+    },
+    {
+      "basename": "周文康，SAT to 3SAT",
+      "path": "50-Courses/算法设计与分析/周文康，SAT to 3SAT.md"
+    },
+    {
+      "basename": "PAT乙知识点",
+      "path": "40-Coding/PAT/PAT乙/PAT乙知识点.md"
+    },
+    {
+      "basename": "刷题记录",
+      "path": "40-Coding/PAT/PAT乙/刷题记录.md"
+    },
+    {
+      "basename": "函数",
+      "path": "00-Tips/Python/函数.md"
+    },
+    {
+      "basename": "期末考试",
+      "path": "50-Courses/计算机体系结构/期末考试.md"
+    },
+    {
+      "basename": "1677336120508",
+      "path": "50-Courses/计算机体系结构/截图存放/1677336120508.png"
+    },
+    {
+      "basename": "Markdown语法",
+      "path": "00-Tips/Markdown/Markdown语法.md"
+    },
+    {
+      "basename": "智能算法要有“理论”解决的问题",
+      "path": "60-Paper/idea/智能算法要有“理论”解决的问题.md"
+    },
+    {
+      "basename": "记录",
+      "path": "20-Diary/记录.md"
+    },
+    {
+      "basename": "指令",
+      "path": "00-Tips/Linux/指令.md"
+    },
+    {
+      "basename": "新知识点",
+      "path": "20-Diary/每日积累/新知识点.md"
+    },
+    {
+      "basename": "发电商关于供电量与报价的调整规则",
+      "path": "60-Paper/idea/发电商关于供电量与报价的调整规则.md"
+    },
+    {
+      "basename": "惩罚机制",
+      "path": "60-Paper/idea/惩罚机制.md"
+    },
+    {
+      "basename": "Day Planner-20230210",
+      "path": "Day Planners/Day Planner-20230210.md"
+    },
+    {
+      "basename": "2023-2-10",
+      "path": "20-Diary/每日问题记录/2023-2-10.md"
+    },
+    {
+      "basename": "Day Planner-20230209",
+      "path": "Day Planners/Day Planner-20230209.md"
+    },
+    {
+      "basename": "2023-2-7",
+      "path": "20-Diary/每日问题记录/2023-2-7.md"
+    },
+    {
+      "basename": "语法基础知识点",
+      "path": "40-Coding/语法基础课/语法基础知识点.md"
+    },
+    {
+      "basename": "1. 课程概论和Python3语法",
+      "path": "40-Coding/Django框架课/1. 课程概论和Python3语法.md"
+    },
+    {
+      "basename": "函数",
+      "path": "00-Tips/Matlab/函数.md"
+    },
+    {
+      "basename": "Day Planner-20230208",
+      "path": "Day Planners/Day Planner-20230208.md"
+    },
+    {
+      "basename": "Day Planner-20230207",
+      "path": "Day Planners/Day Planner-20230207.md"
+    },
+    {
+      "basename": "Day Planner-20221209",
+      "path": "Day Planners/Day Planner-20221209.md"
+    },
+    {
+      "basename": "8. 租云服务器及配环境",
+      "path": "40-Coding/Linux基础课/8. 租云服务器及配环境.md"
+    },
+    {
+      "basename": "6. Thrift",
+      "path": "40-Coding/Linux基础课/6. Thrift.md"
+    },
+    {
+      "basename": "7. 管道、环境变量与常用命令",
+      "path": "40-Coding/Linux基础课/7. 管道、环境变量与常用命令.md"
+    },
+    {
+      "basename": "1675824568934 1",
+      "path": "40-Coding/Linux基础课/Linux基础课截图存放/1675824568934 1.png"
+    },
+    {
+      "basename": "1675602951893",
+      "path": "40-Coding/Linux基础课/Linux基础课截图存放/1675602951893.png"
+    },
+    {
+      "basename": "Excel积累",
+      "path": "00-Tips/Office/Excel/Excel积累.md"
     },
     {
       "basename": "如何优雅地刷掉一本数学书",
-      "path": "30-Reading/如何优雅地刷掉一本数学书.md"
+      "path": "30-Reading/方法论/如何优雅地刷掉一本数学书.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Gen6D",
-      "path": "60-Paper/Reading Papers/Artificial Intelligence/Gen6D/Gen6D.md"
-    },
-    {
-      "basename": "Final Exam Review",
-      "path": "50-Courses/Biomedical Information/Final Exam Review.md"
-    },
-    {
-      "basename": "我与地坛",
-      "path": "30-Reading/阅读/2023年阅读书目/我与地坛/我与地坛.md"
-    },
-    {
-      "basename": "2023年阅读书目清单",
-      "path": "30-Reading/阅读/2023年阅读书目/2023年阅读书目清单.md"
-    },
-    {
-      "basename": "数字信号处理期末复习",
-      "path": "50-Courses/数字信号处理/数字信号处理期末复习/数字信号处理期末复习.md"
-    },
-    {
-      "basename": "latex",
-      "path": "00-Tips/LaTex/LaTex数学公式/latex.md"
-    },
-    {
-      "basename": "word使用过程中常见问题汇总",
-      "path": "00-Tips/Office/Word/word使用过程中常见问题汇总.md"
-    },
-    {
-      "basename": "A parallel meta-heuristic method for solving large scale unit commitment considering the integration of new energy sectors",
-      "path": "60-Paper/Reading Papers/Power system scheduling optimization/A parallel meta-heuristic method for solving large scale unit commitment considering the integration of new energy sectors.md"
-    },
-    {
-      "basename": "雅思学习方法",
-      "path": "50-Courses/英语/雅思学习方法.md"
-    },
-    {
-      "basename": "Pasted image 20221214105436",
-      "path": "50-Courses/数字信号处理/数字信号处理期末复习/Pasted image 20221214105436.png"
-    },
-    {
-      "basename": "云计算期末复习",
-      "path": "50-Courses/虚拟化与云计算/云计算期末复习/云计算期末复习.md"
-    },
-    {
-      "basename": "capture_20221210231118253",
-      "path": "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210231118253.bmp"
-    },
-    {
-      "basename": "capture_20221210225830797 1",
-      "path": "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210225830797 1.bmp"
-    },
-    {
-      "basename": "capture_20221210225830797",
-      "path": "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210225830797.bmp"
-    },
-    {
-      "basename": "capture_20221210200535234",
-      "path": "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210200535234.bmp"
-    },
-    {
-      "basename": "capture_20221210162012250",
-      "path": "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210162012250.bmp"
-    },
-    {
-      "basename": "capture_20221210161846149",
-      "path": "50-Courses/虚拟化与云计算/云计算期末复习/capture_20221210161846149.bmp"
-    },
-    {
-      "basename": "1670660208244",
-      "path": "50-Courses/虚拟化与云计算/云计算期末复习/1670660208244.png"
-    },
-    {
-      "basename": "1670597604736",
-      "path": "50-Courses/虚拟化与云计算/云计算期末复习/1670597604736.png"
+      "basename": "如何燃起真正的热情",
+      "path": "30-Reading/方法论/如何燃起真正的热情.md"
     }
   ],
   "omittedPaths": [],
