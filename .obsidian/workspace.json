@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6314a34db12d8625",
+        "id": "f2f87701576787de",
         "type": "tabs",
         "children": [
           {
-            "id": "e413108e3465a7db",
+            "id": "fd535e252d67f09b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Coding/算法基础课/算法基础知识点.md",
+                "file": "40-Coding/Django框架课/2. 配置docker、git环境与项目创建.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,6 +31,7 @@
       {
         "id": "1b233c42dc9506b6",
         "type": "tabs",
+        "dimension": 68.10344827586206,
         "children": [
           {
             "id": "1a03610086e8efb8",
@@ -38,21 +39,6 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "7f130639b937bba7",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -66,18 +52,41 @@
             }
           },
           {
-            "id": "456ef7b2cfb22f82",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "1bf8c83ab58b7a42",
             "type": "leaf",
             "state": {
               "type": "langr-search-panel",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8d8536a17dd7342",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "580f438b0d8805ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "051b85952d9c3ecf",
+        "type": "tabs",
+        "dimension": 31.89655172413793,
+        "children": [
+          {
+            "id": "456ef7b2cfb22f82",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -96,52 +105,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5214552bbeaeaef",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "40-Coding/算法基础课/算法基础知识点.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "05775ab19689288c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "40-Coding/算法基础课/算法基础知识点.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6567af4bb1be4304",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "25300c21c68d6a98",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Coding/算法基础课/算法基础知识点.md"
+                "file": "40-Coding/Django框架课/2. 配置docker、git环境与项目创建.md"
               }
             }
           },
@@ -170,6 +139,76 @@
             }
           },
           {
+            "id": "660a8665e2daece2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "88b451afcc6600eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6567af4bb1be4304",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a5214552bbeaeaef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "40-Coding/Django框架课/2. 配置docker、git环境与项目创建.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05775ab19689288c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "40-Coding/Django框架课/2. 配置docker、git环境与项目创建.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f130639b937bba7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "1956d29becab5b7a",
             "type": "leaf",
             "state": {
@@ -178,19 +217,17 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
+    "width": 389.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -200,57 +237,63 @@
       "obsidian-language-learner:打开查词面板": false,
       "obsidian-language-learner:打开新词面板": false,
       "obsidian-language-learner:打开统计": false,
-      "obsidian-language-learner:单词列表": false
+      "obsidian-language-learner:单词列表": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "notion-like-tables:Create Notion-Like table": false
     }
   },
-  "active": "1a03610086e8efb8",
+  "active": "fd535e252d67f09b",
   "lastOpenFiles": [
-    "40-Coding/算法基础课/截图存放/1678891733045.png",
-    "40-Coding/算法基础课/截图存放/1678891700383.png",
-    "40-Coding/算法基础课/截图存放/1678891586023.png",
-    "40-Coding/基础算法精讲/回溯算法套路 子集型回溯.md",
-    "1678891438067.png",
-    "40-Coding/算法基础课/算法基础知识点.md",
-    "40-Coding/算法基础课/截图存放/1678890758552.png",
-    "40-Coding/算法基础课/截图存放/1678889293597.png",
-    "40-Coding/算法基础课/截图存放/1678887836543.png",
-    "40-Coding/算法基础课/截图存放/1678883495195.png",
-    "40-Coding/算法基础课/截图存放/1678869206473.png",
-    "40-Coding/算法基础课/截图存放/1678869069788.png",
-    "1678888965329.png",
-    "Day Planners/Day Planner-20230315.md",
-    "Day Planners/Day Planner-20230313.md",
-    "Day Planners/Day Planner-20221211.md",
-    "1678620536071.png.md",
-    "40-Coding/基础算法精讲/截图保存",
-    "40-Coding/算法刷题/leetcode/Leetcode题目分类.md",
-    "40-Coding/未命名/未命名",
-    "40-Coding/基础算法精讲",
-    "Day Planners/Day Planner-20230312.md",
-    "Day Planners/Day Planner-20230311.md",
-    "Day Planners/Day Planner-20230310.md",
-    "Day Planners/Day Planner-20230309.md",
-    "20-Diary/每日积累/英语单词.md",
-    "Day Planners/Day Planner-20230308.md",
-    "Day Planners/Day Planner-20230307.md",
-    "50-Courses/算法设计与分析/期末复习.md",
-    "Day Planners/Day Planner-20230306.md",
-    "40-Coding/算法刷题/Hackerrank/知识点积累.md",
-    "40-Coding/算法刷题/Hackerrank/截图",
-    "Day Planners/Day Planner-20230305.md",
-    "50-Courses/算法设计与分析/截图",
-    "40-Coding/算法刷题/leetcode/截图",
-    "50-Courses/算法设计与分析/周文康，SAT to 3SAT.md",
-    "Day Planners/Day Planner-20230304.md",
-    "Day Planners/Day Planner-20230303.md",
-    "40-Coding/PAT/PAT乙/PAT乙知识点.md",
-    "40-Coding/PAT/PAT乙/刷题记录.md",
-    "40-Coding/PAT/未命名.md",
-    "40-Coding/PAT/PAT乙",
+    "Day Planners/Day Planner-20230626.md",
+    "有限元求解热方程.md",
+    "Day Planners/Day Planner-20230625.md",
+    "90-Teammates/未命名.md",
+    "90-Teammates",
+    "40-Coding/Django框架课/2. 配置docker、git环境与项目创建.md",
+    "Day Planners/Day Planner-20221209.md",
+    "Day Planners/Day Planner-20221210.md",
+    "2023-06-25.md",
+    "README.md",
+    "50-Courses/Probability Theory and Mathematical Statistics/Confidence interval.md",
+    "2022Z8017782107-周文康.md",
+    "Pasted image 20230619002034.png",
+    "Pasted image 20230618222020.png",
+    "40-Coding/常用模板python.md",
+    "40-Coding/算法刷题/2023AcWing夏季每日一题/4737. 冰壶.md",
+    "40-Coding/Linux基础课/7. 管道、环境变量与常用命令.md",
+    "40-Coding/Linux基础课/6. Thrift.md",
+    "40-Coding/算法刷题/2023AcWing夏季每日一题/未命名.md",
+    "40-Coding/算法刷题/2023AcWing夏季每日一题/4738. 快乐子数组.md",
+    "40-Coding/算法刷题/2023AcWing夏季每日一题/截图保存/1687516977241.png",
+    "40-Coding/算法刷题/2023AcWing夏季每日一题/截图保存/1687516011811.png",
+    "40-Coding/算法刷题/2023AcWing夏季每日一题/截图保存",
+    "40-Coding/算法基础课/数据结构.md",
+    "40-Coding/算法刷题/2023AcWing夏季每日一题",
+    "40-Coding/算法基础课/数学证明.md",
+    "40-Coding/算法基础课/数学知识.md",
+    "40-Coding/算法基础课/搜索与图论.md",
+    "40-Coding/算法基础课/贪心.md",
+    "40-Coding/python知识记录.md",
+    "40-Coding/算法基础课/基础算法.md",
+    "Day Planners/Day Planner-20230623.md",
+    "Day Planners/Day Planner-20230622.md",
     "未命名.canvas",
-    "Day Planners/Day Planner-20230302.md",
-    "40-Coding/算法基础课/截图存放",
     "未命名 1.canvas",
+    "40-Coding/算法基础课/截图存放/1679229014848.png",
+    "80-Collects/知乎收藏",
+    "80-Collects/B站收藏",
+    "80-Collects",
+    "30-Reading/问题汇总",
+    "40-Coding/基础算法精讲/截图保存/1685611211771.png",
+    "1684656611676.png",
+    "1684656526786.png",
+    "1684656382182.png",
+    "1684656065543.png",
+    "40-Coding/知识点解析/基础算法",
+    "40-Coding/知识点解析/截图存放",
+    "40-Coding/知识点解析",
     "未命名 2.canvas"
   ]
 }

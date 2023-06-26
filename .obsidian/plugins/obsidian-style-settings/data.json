@@ -7,5 +7,8 @@
   "blue-topaz-theme@@layout-style-options": "asymmetric-split-left",
   "blue-topaz-theme@@hide-vault-name": false,
   "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
-  "blue-topaz-theme@@bt-status-on": false
+  "blue-topaz-theme@@bt-status-on": false,
+  "floating-toc-styles@@floating-toc-highlight-color": "#00FFE9",
+  "floating-toc-styles@@floating-toc-response-time": 0,
+  "floating-toc-styles@@toggle-floating-toc-header-color": false
 }

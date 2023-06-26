@@ -1,196 +1,196 @@
 {
   "recentFiles": [
     {
-      "basename": "算法基础知识点",
-      "path": "40-Coding/算法基础课/算法基础知识点.md"
+      "basename": "2. 配置docker、git环境与项目创建",
+      "path": "40-Coding/Django框架课/2. 配置docker、git环境与项目创建.md"
     },
     {
-      "basename": "回溯算法套路 子集型回溯",
-      "path": "40-Coding/基础算法精讲/回溯算法套路 子集型回溯.md"
+      "basename": "Day Planner-20230626",
+      "path": "Day Planners/Day Planner-20230626.md"
     },
     {
-      "basename": "1678887836543",
-      "path": "40-Coding/算法基础课/截图存放/1678887836543.png"
+      "basename": "有限元求解热方程",
+      "path": "有限元求解热方程.md"
     },
     {
-      "basename": "1678883495195",
-      "path": "40-Coding/算法基础课/截图存放/1678883495195.png"
+      "basename": "Day Planner-20230625",
+      "path": "Day Planners/Day Planner-20230625.md"
     },
     {
-      "basename": "1678869206473",
-      "path": "40-Coding/算法基础课/截图存放/1678869206473.png"
+      "basename": "常用模板python",
+      "path": "40-Coding/常用模板python.md"
     },
     {
-      "basename": "1678869069788",
-      "path": "40-Coding/算法基础课/截图存放/1678869069788.png"
+      "basename": "4737. 冰壶",
+      "path": "40-Coding/算法刷题/2023AcWing夏季每日一题/4737. 冰壶.md"
     },
     {
-      "basename": "Day Planner-20221211",
-      "path": "Day Planners/Day Planner-20221211.md"
+      "basename": "4738. 快乐子数组",
+      "path": "40-Coding/算法刷题/2023AcWing夏季每日一题/4738. 快乐子数组.md"
     },
     {
-      "basename": "Leetcode题目分类",
-      "path": "40-Coding/算法刷题/leetcode/Leetcode题目分类.md"
+      "basename": "1687516011811",
+      "path": "40-Coding/算法刷题/2023AcWing夏季每日一题/截图保存/1687516011811.png"
+    },
+    {
+      "basename": "数据结构",
+      "path": "40-Coding/算法基础课/数据结构.md"
+    },
+    {
+      "basename": "数学证明",
+      "path": "40-Coding/算法基础课/数学证明.md"
+    },
+    {
+      "basename": "数学知识",
+      "path": "40-Coding/算法基础课/数学知识.md"
+    },
+    {
+      "basename": "贪心",
+      "path": "40-Coding/算法基础课/贪心.md"
+    },
+    {
+      "basename": "python知识记录",
+      "path": "40-Coding/python知识记录.md"
+    },
+    {
+      "basename": "2022Z8017782107-周文康",
+      "path": "2022Z8017782107-周文康.md"
+    },
+    {
+      "basename": "基础算法",
+      "path": "40-Coding/算法基础课/基础算法.md"
     },
     {
       "basename": "英语单词",
       "path": "20-Diary/每日积累/英语单词.md"
     },
     {
-      "basename": "Day Planner-20230307",
-      "path": "Day Planners/Day Planner-20230307.md"
-    },
-    {
-      "basename": "1677939947126",
-      "path": "50-Courses/算法设计与分析/截图/1677939947126.png"
-    },
-    {
-      "basename": "期末复习",
-      "path": "50-Courses/算法设计与分析/期末复习.md"
-    },
-    {
-      "basename": "知识点积累",
-      "path": "40-Coding/算法刷题/Hackerrank/知识点积累.md"
-    },
-    {
-      "basename": "1677339062861",
-      "path": "50-Courses/计算机体系结构/截图存放/1677339062861.png"
-    },
-    {
-      "basename": "1677588420260",
-      "path": "40-Coding/算法刷题/leetcode/截图/1677588420260.png"
-    },
-    {
-      "basename": "1677916599972",
-      "path": "40-Coding/算法刷题/leetcode/截图/1677916599972.png"
-    },
-    {
-      "basename": "1677571169463",
-      "path": "40-Coding/算法刷题/leetcode/截图/1677571169463.png"
-    },
-    {
-      "basename": "1677338790607",
-      "path": "50-Courses/计算机体系结构/截图存放/1677338790607.png"
-    },
-    {
-      "basename": "周文康，SAT to 3SAT",
-      "path": "50-Courses/算法设计与分析/周文康，SAT to 3SAT.md"
-    },
-    {
-      "basename": "PAT乙知识点",
-      "path": "40-Coding/PAT/PAT乙/PAT乙知识点.md"
-    },
-    {
-      "basename": "刷题记录",
-      "path": "40-Coding/PAT/PAT乙/刷题记录.md"
-    },
-    {
-      "basename": "函数",
-      "path": "00-Tips/Python/函数.md"
-    },
-    {
-      "basename": "期末考试",
-      "path": "50-Courses/计算机体系结构/期末考试.md"
-    },
-    {
-      "basename": "1677336120508",
-      "path": "50-Courses/计算机体系结构/截图存放/1677336120508.png"
-    },
-    {
-      "basename": "Markdown语法",
-      "path": "00-Tips/Markdown/Markdown语法.md"
-    },
-    {
-      "basename": "智能算法要有“理论”解决的问题",
-      "path": "60-Paper/idea/智能算法要有“理论”解决的问题.md"
-    },
-    {
-      "basename": "记录",
-      "path": "20-Diary/记录.md"
-    },
-    {
-      "basename": "指令",
-      "path": "00-Tips/Linux/指令.md"
-    },
-    {
-      "basename": "新知识点",
-      "path": "20-Diary/每日积累/新知识点.md"
-    },
-    {
-      "basename": "发电商关于供电量与报价的调整规则",
-      "path": "60-Paper/idea/发电商关于供电量与报价的调整规则.md"
-    },
-    {
-      "basename": "惩罚机制",
-      "path": "60-Paper/idea/惩罚机制.md"
-    },
-    {
-      "basename": "Day Planner-20230210",
-      "path": "Day Planners/Day Planner-20230210.md"
-    },
-    {
-      "basename": "2023-2-10",
-      "path": "20-Diary/每日问题记录/2023-2-10.md"
-    },
-    {
-      "basename": "Day Planner-20230209",
-      "path": "Day Planners/Day Planner-20230209.md"
-    },
-    {
-      "basename": "2023-2-7",
-      "path": "20-Diary/每日问题记录/2023-2-7.md"
+      "basename": "1679229014848",
+      "path": "40-Coding/算法基础课/截图存放/1679229014848.png"
     },
     {
       "basename": "语法基础知识点",
       "path": "40-Coding/语法基础课/语法基础知识点.md"
     },
     {
-      "basename": "1. 课程概论和Python3语法",
-      "path": "40-Coding/Django框架课/1. 课程概论和Python3语法.md"
+      "basename": "B站视频",
+      "path": "80-Collects/B站收藏/B站视频.md"
     },
     {
-      "basename": "函数",
-      "path": "00-Tips/Matlab/函数.md"
+      "basename": "动态规划",
+      "path": "40-Coding/算法基础课/动态规划.md"
     },
     {
-      "basename": "Day Planner-20230208",
-      "path": "Day Planners/Day Planner-20230208.md"
+      "basename": "统计学习方法",
+      "path": "30-Reading/问题汇总/统计学习方法.md"
     },
     {
-      "basename": "Day Planner-20230207",
-      "path": "Day Planners/Day Planner-20230207.md"
+      "basename": "二分查找 循环不变量",
+      "path": "40-Coding/基础算法精讲/二分查找 循环不变量.md"
     },
     {
-      "basename": "Day Planner-20221209",
-      "path": "Day Planners/Day Planner-20221209.md"
+      "basename": "快速排序",
+      "path": "40-Coding/知识点解析/基础算法/快速排序.md"
     },
     {
-      "basename": "8. 租云服务器及配环境",
-      "path": "40-Coding/Linux基础课/8. 租云服务器及配环境.md"
+      "basename": "二叉树 递归 底层原理",
+      "path": "40-Coding/基础算法精讲/二叉树 递归 底层原理.md"
     },
     {
-      "basename": "6. Thrift",
-      "path": "40-Coding/Linux基础课/6. Thrift.md"
+      "basename": "二叉搜索树 前序 中序 后序",
+      "path": "40-Coding/基础算法精讲/二叉搜索树 前序 中序 后序.md"
     },
     {
-      "basename": "7. 管道、环境变量与常用命令",
-      "path": "40-Coding/Linux基础课/7. 管道、环境变量与常用命令.md"
+      "basename": "搜索与图论",
+      "path": "40-Coding/算法基础课/搜索与图论.md"
     },
     {
-      "basename": "1675824568934 1",
-      "path": "40-Coding/Linux基础课/Linux基础课截图存放/1675824568934 1.png"
+      "basename": "Leetcode题目分类",
+      "path": "40-Coding/算法刷题/leetcode/Leetcode题目分类.md"
     },
     {
-      "basename": "1675602951893",
-      "path": "40-Coding/Linux基础课/Linux基础课截图存放/1675602951893.png"
+      "basename": "同向双指针 滑动窗口",
+      "path": "40-Coding/基础算法精讲/同向双指针 滑动窗口.md"
+    },
+    {
+      "basename": "动态规划入门-从记忆化搜索到递推",
+      "path": "40-Coding/基础算法精讲/动态规划入门-从记忆化搜索到递推.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "反转链表",
+      "path": "40-Coding/基础算法精讲/反转链表.md"
+    },
+    {
+      "basename": "前后指针 链表删除 链表去重",
+      "path": "40-Coding/基础算法精讲/前后指针 链表删除 链表去重.md"
+    },
+    {
+      "basename": "二分查找",
+      "path": "40-Coding/知识点解析/基础算法/二分查找.md"
+    },
+    {
+      "basename": "归并排序",
+      "path": "40-Coding/知识点解析/基础算法/归并排序.md"
+    },
+    {
+      "basename": "快速幂",
+      "path": "40-Coding/知识点解析/快速幂.md"
+    },
+    {
+      "basename": "C++知识记录",
+      "path": "40-Coding/C++知识记录.md"
+    },
+    {
+      "basename": "1683993450649",
+      "path": "40-Coding/算法基础课/截图存放/1683993450649.png"
+    },
+    {
+      "basename": "线性筛-欧拉筛",
+      "path": "40-Coding/知识点解析/线性筛-欧拉筛.md"
+    },
+    {
+      "basename": "1683721907596",
+      "path": "40-Coding/算法基础课/截图存放/1683721907596.png"
+    },
+    {
+      "basename": "报价优化相关内容记录",
+      "path": "60-Paper/idea/报价优化相关内容记录.md"
     },
     {
       "basename": "Excel积累",
       "path": "00-Tips/Office/Excel/Excel积累.md"
     },
     {
-      "basename": "如何优雅地刷掉一本数学书",
-      "path": "30-Reading/方法论/如何优雅地刷掉一本数学书.md"
+      "basename": "Confidence interval",
+      "path": "50-Courses/Probability Theory and Mathematical Statistics/Confidence interval.md"
+    },
+    {
+      "basename": "周文康，SAT to 3SAT",
+      "path": "50-Courses/算法设计与分析/周文康，SAT to 3SAT.md"
+    },
+    {
+      "basename": "最长递增子序列",
+      "path": "40-Coding/基础算法精讲/最长递增子序列.md"
+    },
+    {
+      "basename": "回溯算法套路 子集型回溯",
+      "path": "40-Coding/基础算法精讲/回溯算法套路 子集型回溯.md"
+    },
+    {
+      "basename": "记录",
+      "path": "20-Diary/记录.md"
+    },
+    {
+      "basename": "1681303109702",
+      "path": "40-Coding/算法基础课/截图存放/1681303109702.png"
+    },
+    {
+      "basename": "latex",
+      "path": "00-Tips/LaTex/LaTex数学公式/latex.md"
     },
     {
       "basename": "如何燃起真正的热情",
