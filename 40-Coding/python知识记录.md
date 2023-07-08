@@ -29,7 +29,11 @@ sentence.split()
 
 sentence[start: end].startswith(searchWord)
 ```
+
 - zip()、sum()、bisect_right()、bisect_left()
+> `zip(*nums)` 将二维列表 `nums` 进行转置。`zip()` 函数用于将多个可迭代对象按对应位置打包成元组，而 `zip(*nums)` 表示将二维列表的列解压缩，返回一个包含每一列元素的迭代器。
+
+
 ```python
  # lc 1450
 sum(s <= queryTime <= e for s, e in zip(startTime, endTime))
@@ -38,6 +42,11 @@ bisect_right(startTime, queryTime) - bisect_left(endTime, queryTime)
 
 # lc 1170
 return [n - bisect_right(nums, f(q)) for q in queries]
+
+# lc 2679
+for row in nums:
+    row.sort()
+return sum(map(max, zip(*nums)))
 ```
 
 - sorted()
@@ -119,12 +128,19 @@ nonlocal ans
 ```
 
 - map、ord
+> `map(max, ...)` 对转置后的列表进行处理。`max()` 函数用于找到一组值中的最大值，而 `map()` 函数用于对迭代器中的每个元素应用指定的函数，这里的函数就是 `max`。
+
+
 ```python
 # lc 1003
 st = []
 for c in map(ord, s):
 	if c > ord('a') and (len(st) == 0 or c - st.pop() != 1):
 		return False
+
+# lc 2679
+for row in nums: row.sort()
+	return sum(map(max, zip(*nums)))
 ```
 
 - pairwise
@@ -187,6 +203,14 @@ for c in ascii_lowercase:  # 能输出26个小写字母
 
 - isdigit()
 > `isdigit()` 函数用于检查字符串是否只包含数字字符。如果字符串只包含数字字符，则返回 True；否则，返回 False。
+
+- lower()
+> `lower()` 是 Python 字符串对象的一个内置方法，用于将字符串中的所有字符转换为小写形式
+
+- count()
+> `count()` 是 Python 字符串对象的一个内置方法，用于计算字符串中某个子字符串出现的次数。它接受一个参数，即要计数的子字符串，并返回该子字符串在原始字符串中出现的次数。
+
+
 
 
 

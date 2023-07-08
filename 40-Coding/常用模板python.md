@@ -10,6 +10,52 @@ for c in map(ord, s):
 	if c < ord('c'):
 		st.append(c)
 ```
+# 链表
+## [[反转链表]]
+### 递归写法
+```python
+def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+	if head is None or head.next is None:
+		return head
+	new_head = self.reverseList(head.next)
+	head.next.next = head  # 把下一个节点指向自己
+	head.next = None  # 断开指向下一个节点的连接，保证最终链表的末尾节点的 next 是空节点
+	return new_head
+```
+### 迭代写法
+```python
+def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+	pre = None
+	cur = head
+	while cur:
+		nxt = cur.next
+		cur.next = pre
+		pre = cur
+		cur = nxt
+	return pre
+```
+
+## 两数相加
+```python
+# lc 2
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode], carry=0) -> Optional[ListNode]:
+        if l1 is None and l2 is None:  # 递归边界：l1 和 l2 都是空节点
+            return ListNode(carry) if carry else None  # 如果进位了，就额外创建一个节点
+        if l1 is None:  # 如果 l1 是空的，那么此时 l2 一定不是空节点
+            l1, l2 = l2, l1  # 交换 l1 与 l2，保证 l1 非空，从而简化代码
+        carry += l1.val + (l2.val if l2 else 0)  # 节点值和进位加在一起
+        l1.val = carry % 10  # 每个节点保存一个数位
+        l1.next = self.addTwoNumbers(l1.next, l2.next if l2 else None, carry // 10)  # 进位
+        return l1
+```
+
 # 字符串
 ## 字符串抠单词
 ```python
@@ -62,7 +108,7 @@ while num1:
 ```
 
 ## 负二进制转换
-我们可以判断 n 从低位到高位的每一位，如果该位为 1，那么答案的该位为 1，否则为 0。如果该位为 1，那么我们需要将 n 减去 k。接下来我们更新$n=\lfloor n / 2 \rfloor$,$ k=−k$。继续判断下一位。
+我们可以判断 n 从低位到高位的每一位，如果该位为 1，那么答案的该位为 1，否则为 0。如果该位为 1，那么我们需要将 n 减去 k。接下来我们更新$n=\lfloor n / 2 \rfloor, k=−k$。继续判断下一位。
 
 最后，我们将答案反转后返回即可。
 ```python
@@ -116,6 +162,22 @@ class Solution:
             for x in col:
                 mx = max(mx, len(str(x)))
             ans.append(mx)
+        return ans
+```
+
+## 矩阵转置
+```python
+# lc 867
+
+class Solution:
+    def transpose(self, matrix: List[List[int]]) -> List[List[int]]:
+        n, m = len(matrix), len(matrix[0])
+        ans = []
+        for i in range(m):
+            col = []
+            for j in range(n):
+                col.append(matrix[j][i])
+            ans.append(col)
         return ans
 ```
 
@@ -434,4 +496,12 @@ class Solution:
             return min(dfs(i - 1, j &~(1 << k)) + c for k, c in enumerate(cost[i]))  # j &~(1 << k)：从集合j中删除k
         return dfs(n - 1, (1 << m) - 1)  # (1 << m) - 1: 全集0, ..., m - 1
 ```
+
+# 额外知识点
+- 0 ^ i = i
+> [1486. 数组异或操作 题解 - 力扣（LeetCode）](https://leetcode.cn/problems/xor-operation-in-an-array/solutions/371258/shu-zu-yi-huo-cao-zuo-by-leetcode-solution/)
+
+- 如果n为2的幂，则有$n > 0$ and $n \& (n - 1) == 0$
+> [Loading Question... - 力扣（LeetCode）](https://leetcode.cn/problems/power-of-two/solutions/12689/power-of-two-er-jin-zhi-ji-jian-by-jyd/)
+
 
