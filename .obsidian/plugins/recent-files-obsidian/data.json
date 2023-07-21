@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2. 配置docker、git环境与项目创建",
+      "path": "40-Coding/Django框架课/2. 配置docker、git环境与项目创建.md"
+    },
+    {
+      "basename": "1. 课程概论和Python3语法",
+      "path": "40-Coding/Django框架课/1. 课程概论和Python3语法.md"
+    },
+    {
+      "basename": "8. 租云服务器及配环境",
+      "path": "40-Coding/Linux基础课/8. 租云服务器及配环境.md"
+    },
+    {
+      "basename": "7. 管道、环境变量与常用命令",
+      "path": "40-Coding/Linux基础课/7. 管道、环境变量与常用命令.md"
+    },
+    {
       "basename": "PETSC-二维热传导",
       "path": "PETSC-二维热传导.md"
     },
@@ -59,10 +75,6 @@
     {
       "basename": "Day Planner-20230626",
       "path": "Day Planners/Day Planner-20230626.md"
-    },
-    {
-      "basename": "2. 配置docker、git环境与项目创建",
-      "path": "40-Coding/Django框架课/2. 配置docker、git环境与项目创建.md"
     },
     {
       "basename": "Day Planner-20230625",
@@ -187,18 +199,6 @@
     {
       "basename": "Confidence interval",
       "path": "50-Courses/Probability Theory and Mathematical Statistics/Confidence interval.md"
-    },
-    {
-      "basename": "周文康，SAT to 3SAT",
-      "path": "50-Courses/算法设计与分析/周文康，SAT to 3SAT.md"
-    },
-    {
-      "basename": "最长递增子序列",
-      "path": "40-Coding/基础算法精讲/最长递增子序列.md"
-    },
-    {
-      "basename": "回溯算法套路 子集型回溯",
-      "path": "40-Coding/基础算法精讲/回溯算法套路 子集型回溯.md"
     }
   ],
   "omittedPaths": [],
