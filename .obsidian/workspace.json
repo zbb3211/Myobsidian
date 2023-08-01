@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fe7f9cfb91ecb0dd",
+        "id": "c439494785158c74",
         "type": "tabs",
         "children": [
           {
-            "id": "5bdddf0f6a6fdd93",
+            "id": "0c4d1eea57fd8bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60-Paper/idea/信任度模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "689ee302956378e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +159,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "88b451afcc6600eb",
@@ -244,56 +256,56 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5bdddf0f6a6fdd93",
+  "active": "689ee302956378e6",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230801.md",
     "40-Coding/Django框架课/1. 课程概论和Python3语法.md",
-    "40-Coding/Linux基础课/8. 租云服务器及配环境.md",
-    "40-Coding/Linux基础课/6. Thrift.md",
-    "40-Coding/Linux基础课/7. 管道、环境变量与常用命令.md",
-    "Day Planners/Day Planner-20230721.md",
-    "Day Planners/Day Planner-20230708.md",
-    "PETSC-二维热传导.md",
-    "40-Coding/基础算法精讲/反转链表.md",
-    "2022Z8017782107-周文康.md",
-    "Pasted image 20230618222020.png.md",
-    "40-Coding/算法刷题/2023AcWing夏季每日一题/4737. 冰壶.md",
-    "20-Diary/每日积累/英语单词.md",
-    "50-Courses/CS61A",
-    "Day Planners/Day Planner-20230707.md",
-    "Day Planners/Day Planner-20230706.md",
-    "40-Coding/算法刷题/2023AcWing夏季每日一题/4633. 学生和导师.md",
-    "50-Courses/积极心理学/积极心理学.md",
-    "80-Collects/B站收藏/B站视频.md",
-    "50-Courses/积极心理学",
-    "40-Coding/python知识记录.md",
-    "Day Planners/Day Planner-20230705.md",
-    "40-Coding/C++知识记录.md",
-    "40-Coding/常用模板python.md",
-    "Day Planners/Day Planner-20230704.md",
-    "40-Coding/基础算法精讲/截图保存/1688356713210.png",
-    "40-Coding/基础算法精讲/二叉搜索树 前序 中序 后序.md",
+    "40-Coding/Django框架课/2. 配置docker、git环境与项目创建.md",
+    "日常规划.md",
+    "60-Paper/idea/信任度模型.md",
     "README.md",
+    "PETSC-二维热传导.md",
+    "未命名 1",
+    "未命名",
+    "60-Paper/idea/智能算法要有“理论”解决的问题.md",
+    "60-Paper/Reading Papers/Power system/EV、alternate market/电动汽车参与备用市场的可信竞标优化.md",
+    "60-Paper/idea/发电商关于供电量与报价的调整规则.md",
+    "Day Planners/Day Planner-20230731.md",
+    "Day Planners/Day Planner-20230730.md",
+    "Day Planners/Day Planner-20230729.md",
+    "2022Z8017782107-周文康.md",
+    "Day Planners/Day Planner-20230728.md",
+    "Day Planners/Day Planner-20230727.md",
+    "60-Paper/Reading Papers/Power system/EV、alternate market/电动汽车参与电量市场与备用市场的联合风险调度.md",
+    "60-Paper/Reading Papers/Power system/EV、alternate market/电动汽车聚合商对备用服务能力的优化.md",
+    "Day Planners/Day Planner-20230726.md",
+    "Day Planners/Day Planner-20230725.md",
+    "60-Paper/Reading Papers/Power system/A parallel meta-heuristic method for solving large scale unit commitment considering the integration of new energy sectors.md",
+    "20-Diary/每日积累/英语单词.md",
+    "40-Coding/基础算法精讲/相向双指针 接雨水.md",
+    "Day Planners/Day Planner-20230724.md",
+    "40-Coding/基础算法精讲/二分查找 循环不变量.md",
+    "40-Coding/基础算法精讲/反转链表.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "60-Paper/Reading Papers/Power system/EV、alternate market",
+    "50-Courses/CS61A",
+    "50-Courses/积极心理学",
+    "40-Coding/基础算法精讲/截图保存/1688356713210.png",
     "Pasted image 20230619002034.png",
     "40-Coding/基础算法精讲/截图保存/1688356594880.png",
     "Pasted image 20230618222020.png",
-    "Day Planners/Day Planner-20230703.md",
-    "Day Planners/Day Planner-20230702.md",
     "90-Teammates",
     "40-Coding/算法刷题/2023AcWing夏季每日一题/截图保存/1687516977241.png",
     "40-Coding/算法刷题/2023AcWing夏季每日一题/截图保存/1687516011811.png",
     "40-Coding/算法刷题/2023AcWing夏季每日一题/截图保存",
     "40-Coding/算法刷题/2023AcWing夏季每日一题",
-    "未命名.canvas",
-    "未命名 1.canvas",
     "40-Coding/算法基础课/截图存放/1679229014848.png",
     "80-Collects/知乎收藏",
     "80-Collects/B站收藏",
-    "80-Collects",
-    "30-Reading/问题汇总",
     "40-Coding/基础算法精讲/截图保存/1685611211771.png",
     "1684656611676.png",
     "1684656526786.png",
-    "40-Coding/知识点解析/基础算法",
     "未命名 2.canvas"
   ]
 }

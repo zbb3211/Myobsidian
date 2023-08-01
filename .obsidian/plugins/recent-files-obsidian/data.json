@@ -5,6 +5,46 @@
       "path": "40-Coding/Django框架课/2. 配置docker、git环境与项目创建.md"
     },
     {
+      "basename": "日常规划",
+      "path": "日常规划.md"
+    },
+    {
+      "basename": "信任度模型",
+      "path": "60-Paper/idea/信任度模型.md"
+    },
+    {
+      "basename": "电动汽车参与备用市场的可信竞标优化",
+      "path": "60-Paper/Reading Papers/Power system/EV、alternate market/电动汽车参与备用市场的可信竞标优化.md"
+    },
+    {
+      "basename": "电动汽车参与电量市场与备用市场的联合风险调度",
+      "path": "60-Paper/Reading Papers/Power system/EV、alternate market/电动汽车参与电量市场与备用市场的联合风险调度.md"
+    },
+    {
+      "basename": "电动汽车聚合商对备用服务能力的优化",
+      "path": "60-Paper/Reading Papers/Power system/EV、alternate market/电动汽车聚合商对备用服务能力的优化.md"
+    },
+    {
+      "basename": "相向双指针 接雨水",
+      "path": "40-Coding/基础算法精讲/相向双指针 接雨水.md"
+    },
+    {
+      "basename": "论文结构",
+      "path": "60-Paper/Tips for writing a paper/论文结构.md"
+    },
+    {
+      "basename": "积极心理学",
+      "path": "50-Courses/积极心理学/积极心理学.md"
+    },
+    {
+      "basename": "B站视频",
+      "path": "80-Collects/B站收藏/B站视频.md"
+    },
+    {
+      "basename": "论文技巧",
+      "path": "60-Paper/Tips for writing a paper/论文技巧.md"
+    },
+    {
       "basename": "1. 课程概论和Python3语法",
       "path": "40-Coding/Django框架课/1. 课程概论和Python3语法.md"
     },
@@ -31,14 +71,6 @@
     {
       "basename": "英语单词",
       "path": "20-Diary/每日积累/英语单词.md"
-    },
-    {
-      "basename": "积极心理学",
-      "path": "50-Courses/积极心理学/积极心理学.md"
-    },
-    {
-      "basename": "B站视频",
-      "path": "80-Collects/B站收藏/B站视频.md"
     },
     {
       "basename": "python知识记录",
@@ -167,38 +199,6 @@
     {
       "basename": "归并排序",
       "path": "40-Coding/知识点解析/基础算法/归并排序.md"
-    },
-    {
-      "basename": "快速幂",
-      "path": "40-Coding/知识点解析/快速幂.md"
-    },
-    {
-      "basename": "C++知识记录",
-      "path": "40-Coding/C++知识记录.md"
-    },
-    {
-      "basename": "1683993450649",
-      "path": "40-Coding/算法基础课/截图存放/1683993450649.png"
-    },
-    {
-      "basename": "线性筛-欧拉筛",
-      "path": "40-Coding/知识点解析/线性筛-欧拉筛.md"
-    },
-    {
-      "basename": "1683721907596",
-      "path": "40-Coding/算法基础课/截图存放/1683721907596.png"
-    },
-    {
-      "basename": "报价优化相关内容记录",
-      "path": "60-Paper/idea/报价优化相关内容记录.md"
-    },
-    {
-      "basename": "Excel积累",
-      "path": "00-Tips/Office/Excel/Excel积累.md"
-    },
-    {
-      "basename": "Confidence interval",
-      "path": "50-Courses/Probability Theory and Mathematical Statistics/Confidence interval.md"
     }
   ],
   "omittedPaths": [],
